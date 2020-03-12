@@ -1,4 +1,6 @@
 ### Untuk meramal zodiakmu hari ini
+![Screenshot](screenshot.jpg)
+### INSTALASI
 ```
 $ pkg update && pkg upgrade
 $ pkg install git python
